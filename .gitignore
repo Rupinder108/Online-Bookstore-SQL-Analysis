@@ -1,0 +1,22 @@
+
+
+# PostgreSQL backup files
+*.backup
+*.dump
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# VS Code settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Python cache (if you add Python later)
+__pycache__/
+*.pyc
