@@ -25,6 +25,24 @@ This project demonstrates practical SQL skills used in real-world data analyst r
 - Version Control:Git & GitHub
 
 
+## 📂 Dataset Source
+
+The dataset used for this project was obtained from the following GitHub repository:
+
+Source Repository:  
+https://github.com/SatishDhawale/SQL_Resume_Project
+
+Dataset files used:
+- Books.csv
+- Customers.csv
+- Orders.csv
+
+The dataset contains information related to:
+- Book details
+- Customer information
+- Order transactions
+
+The data was imported into PostgreSQL and analysed using SQL queries to generate meaningful business insights.
 
 
 # 🗄️ Database Schema
